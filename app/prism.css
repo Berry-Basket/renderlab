@@ -1,0 +1,47 @@
+pre[class*="language-"] {
+  color: oklch(96.7% 0.001 286.375);
+}
+
+.token.tag,
+.token.class-name,
+.token.selector,
+.token.selector .class,
+.token.selector.class,
+.token.function {
+  color: oklch(70.7% 0.165 254.624);
+}
+
+.token.attr-name,
+.token.keyword,
+.token.rule,
+.token.pseudo-class,
+.token.important {
+  color: oklch(86.9% 0.022 252.894);
+}
+
+.token.module {
+  color: oklch(76.5% 0.177 163.223);
+}
+
+.token.attr-value,
+.token.class,
+.token.string,
+.token.property {
+  color: oklch(85.5% 0.138 181.071);
+}
+
+.token.punctuation,
+.token.attr-equals {
+  color: oklch(55.2% 0.016 285.938);
+}
+
+.token.unit,
+.language-css .token.function {
+  color: oklch(90.1% 0.058 230.902);
+}
+
+.token.comment,
+.token.operator,
+.token.combinator {
+  color: oklch(70.5% 0.015 286.067);
+}
